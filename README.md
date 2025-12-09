@@ -11,7 +11,7 @@ MergedData_model.csv is just MergedData_clean.csv but made easier to work with f
 
 MergedData_clusters_improved.csv is MergedData_model.csv but made easier to work with for K-Means Clustering.
 
-The ANN model is in ANN.ipynb. The CART model is in CART.ipynb. KNN and NB are in fitness_models.ipynb.
+The ANN model is in ANN.ipynb. The CART model is in CART.ipynb. The MiniSOM model is in SOM.ipynb. The SVM model is in SVM.ipynb. The KNN and NB models are in fitness_models.ipynb.
 
 kmeans_clustering_and_SummaryStats.ipynb has the K-means clustering model and visualizations.
 
