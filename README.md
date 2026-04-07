@@ -1,4 +1,4 @@
-# CS513 Data Mining Project
+# Modeling Motivational Change (RRV) from Accelerometer Data using Supervised & Unsupervised ML
 [Link to the fitness dataset](https://catalog.data.gov/dataset/data-from-a-randomized-controlled-trial-of-positive-outcome-expectancies-during-high-inten-9219d)
 
 AGData.csv is the original Actigraph dataset. RRVData.csv is the original RRV dataset.
